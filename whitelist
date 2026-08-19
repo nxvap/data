@@ -1,0 +1,38 @@
+{
+  "roun95": {
+    "type": "Owner",
+    "expires": null
+  },
+  "deluxe_studios": {
+    "type": "Owner",
+    "expires": null
+  },
+  "olidragon210": {
+    "type": "Admin",
+    "expires": null
+  },
+  "jackmully790": {
+    "type": "Admin",
+    "expires": null
+  },
+  "ninoezekielgael": {
+    "type": "Admin",
+    "expires": null
+  },
+  "corrupted_vr800alt": {
+    "type": "Admin",
+    "expires": null
+  },
+  "fezfriz": {
+    "type": "Admin",
+    "expires": "30/12/2026"
+  },
+  "matvei_aks": {
+    "type": "Admin",
+    "expires": null
+  },
+  "robloxian_uv30thinq": {
+    "type": "Admin",
+    "expires": null
+  }
+}
