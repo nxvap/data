@@ -253,7 +253,7 @@
   },
   "eee_v2e": {
     "type": "Booster",
-    "expires": "21/09/2026"
+    "expires": "10/09/2026"
   },
   "kunnipha8554": {
     "type": "Giveaway",
@@ -301,7 +301,11 @@
   },
   "jrk9235": {
     "type": "Booster",
-    "expires": "15/09/2026"
+    "expires": "10/09/2026"
+  },
+  "pldkf9": {
+    "type": "Booster",
+    "expires": "11/10/2026"
   },
   "2d_k": {
     "type": "Admin",
