@@ -16,15 +16,15 @@
     "expires": "30/12/2026"
   },
   "tomgxklg": {
-    "type": "Staff",
-    "expires": null
+    "type": "Admin",
+    "expires": "30/01/2027"
   },
   "sakiunicornzs": {
     "type": "Staff",
     "expires": null
   },
   "hiimnew928289alt2": {
-    "type": "Staff",
+    "type": "Admin",
     "expires": null
   },
   "robloxian_uv30thinq": {
@@ -123,10 +123,6 @@
     "type": "Admin",
     "expires": "30/01/2027"
   },
-  "robloxian_uv30thinq": {
-    "type": "Owner",
-    "expires": null
-  },
   "excalibur9362": {
     "type": "Admin",
     "expires": "30/01/2027"
@@ -156,10 +152,6 @@
     "expires": "30/01/2027"
   },
   "franklinsaint556": {
-    "type": "Admin",
-    "expires": "30/01/2027"
-  },
-  "tomgxklg": {
     "type": "Admin",
     "expires": "30/01/2027"
   },
@@ -292,10 +284,6 @@
     "expires": null
   },
   "lino200381": {
-    "type": "Admin",
-    "expires": null
-  },
-  "hiimnew928289alt2": {
     "type": "Admin",
     "expires": null
   },
@@ -446,10 +434,6 @@
   "mr_zatanostheheaven": {
     "type": "Admin",
     "expires": null
-  },
-  "hiago62675": {
-    "type": "Admin",
-    "expires": "11/09/2026"
   },
   "007_mtth": {
     "type": "Admin",
