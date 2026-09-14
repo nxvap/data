@@ -179,10 +179,6 @@
     "type": "Booster",
     "expires": "10/09/2026"
   },
-  "aze_leticia": {
-    "type": "Booster",
-    "expires": "10/09/2026"
-  },
   "huntnels": {
     "type": "Admin",
     "expires": null
