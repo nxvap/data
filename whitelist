@@ -175,10 +175,6 @@
     "type": "Admin",
     "expires": "30/01/2027"
   },
-  "rma9889": {
-    "type": "Booster",
-    "expires": "10/09/2026"
-  },
   "huntnels": {
     "type": "Admin",
     "expires": null
