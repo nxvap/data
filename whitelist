@@ -279,10 +279,6 @@
     "type": "Admin",
     "expires": null
   },
-  "jrk9235": {
-    "type": "Booster",
-    "expires": "10/09/2026"
-  },
   "pldkf9": {
     "type": "Booster",
     "expires": "11/10/2026"
