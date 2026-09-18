@@ -291,10 +291,6 @@
     "type": "Booster",
     "expires": "11/10/2026"
   },
-  "2d_k": {
-    "type": "Admin",
-    "expires": "15/09/2026"
-  },
   "laurent2nom": {
     "type": "Admin",
     "expires": "07/09/2026"
