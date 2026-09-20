@@ -418,5 +418,9 @@
   "junyor_v3": {
     "type": "Admin",
     "expires": null
+  },
+  "arth_now": {
+    "type": "Admin",
+    "expires": "20/09/2026"
   }
 }
