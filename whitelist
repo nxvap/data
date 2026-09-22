@@ -155,10 +155,6 @@
     "type": "Admin",
     "expires": null
   },
-  "arth_now": {
-    "type": "Admin",
-    "expires": "20/09/2026"
-  },
   "chinesemark3": {
     "type": "Admin",
     "expires": "20/10/2026"
