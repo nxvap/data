@@ -174,5 +174,9 @@
   "tr1111115": {
     "type": "Admin",
     "expires": "23/09/2026"
+  },
+  "testing": {
+    "type": "Admin",
+    "expires": null
   }
 }
