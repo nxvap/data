@@ -176,8 +176,8 @@
     "expires": "23/09/2026"
   },
   "testing": {
-    "type": "Giveaway",
-    "expires": null
+    "type": "Booster",
+    "expires": "22/09/2026"
   },
   "memitooooololol": {
     "type": "Admin",
