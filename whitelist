@@ -178,5 +178,9 @@
   "memitooooololol": {
     "type": "Admin",
     "expires": null
+  },
+  "joaoking667": {
+    "type": "Admin",
+    "expires": "33/10/2026"
   }
 }
