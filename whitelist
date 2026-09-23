@@ -175,10 +175,6 @@
     "type": "Admin",
     "expires": "23/09/2026"
   },
-  "testing": {
-    "type": "Giveaway",
-    "expires": "22/09/2026"
-  },
   "memitooooololol": {
     "type": "Admin",
     "expires": null
