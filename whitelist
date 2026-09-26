@@ -198,5 +198,9 @@
   "aylluria_two": {
     "type": "Admin",
     "expires": null
+  },
+  "zerorizzbutpro": {
+    "type": "Admin",
+    "expires": null
   }
 }
