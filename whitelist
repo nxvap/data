@@ -210,5 +210,9 @@
   "mopsgrind_alt": {
     "type": "Admin",
     "expires": "28/09/2026"
+  },
+  "n0t_z0ro100": {
+    "type": "Admin",
+    "expires": null
   }
 }
