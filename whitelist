@@ -218,5 +218,9 @@
   "uhutughftehfyk": {
     "type": "Admin",
     "expires": null
+  },
+  "abc123_05dh": {
+    "type": "Admin",
+    "expires": "03/10/2026"
   }
 }
