@@ -230,5 +230,9 @@
   "davi_darkhd": {
     "type": "Admin",
     "expires": null
+  },
+  "ratatoy228": {
+    "type": "Admin",
+    "expires": "05/10/2026"
   }
 }
