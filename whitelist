@@ -203,10 +203,6 @@
     "type": "Admin",
     "expires": null
   },
-  "abc123_05dh": {
-    "type": "Admin",
-    "expires": "02/10/2026"
-  },
   "pakna_win": {
     "type": "Admin",
     "expires": null
