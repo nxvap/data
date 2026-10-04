@@ -242,5 +242,9 @@
   "ajles2017": {
     "type": "Admin",
     "expires": "05/10/2026"
+  },
+  "kp_wizzy": {
+    "type": "Admin",
+    "expires": null
   }
 }
