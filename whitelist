@@ -222,5 +222,9 @@
   "kp_wizzy": {
     "type": "Admin",
     "expires": null
+  },
+  "nssd109": {
+    "type": "Admin",
+    "expires": null
   }
 }
