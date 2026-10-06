@@ -226,5 +226,9 @@
   "nssd109": {
     "type": "Admin",
     "expires": null
+  },
+  "lelmahlel": {
+    "type": "Admin",
+    "expires": "14/10/2026"
   }
 }
