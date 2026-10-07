@@ -230,5 +230,9 @@
   "isukumidor1ya": {
     "type": "Admin",
     "expires": null
+  },
+  "samiron30fp": {
+    "type": "Admin",
+    "expires": "09/10/2026"
   }
 }
