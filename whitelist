@@ -246,5 +246,9 @@
   "guhug38": {
     "type": "Booster",
     "expires": "07/10/2026"
+  },
+  "domer_haha123": {
+    "type": "Admin",
+    "expires": "14/10/2026"
   }
 }
