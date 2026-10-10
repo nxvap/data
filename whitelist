@@ -242,5 +242,9 @@
   "zhaincute": {
     "type": "Booster",
     "expires": "09/11/2026"
+  },
+  "guhug38": {
+    "type": "Booster",
+    "expires": "07/10/2026"
   }
 }
