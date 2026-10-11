@@ -250,5 +250,9 @@
   "domer_haha123": {
     "type": "Admin",
     "expires": "14/10/2026"
+  },
+  "luinorcinco": {
+    "type": "Admin",
+    "expires": "17/10/2026"
   }
 }
