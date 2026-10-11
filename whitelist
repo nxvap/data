@@ -254,5 +254,9 @@
   "luinorcinco": {
     "type": "Admin",
     "expires": "17/10/2026"
+  },
+  "guilhermepavosky": {
+    "type": "Admin",
+    "expires": "11/11/2026"
   }
 }
