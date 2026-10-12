@@ -266,5 +266,9 @@
   "npc_0523": {
     "type": "Giveaway",
     "expires": "01/11/2026"
+  },
+  "hydwfr5": {
+    "type": "Giveaway",
+    "expires": "14/10/2026"
   }
 }
