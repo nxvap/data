@@ -262,5 +262,9 @@
   "biel59d157": {
     "type": "Booster",
     "expires": "12/11/2026"
+  },
+  "npc_0523": {
+    "type": "Giveaway",
+    "expires": "01/11/2026"
   }
 }
