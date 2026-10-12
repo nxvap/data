@@ -258,5 +258,9 @@
   "guilhermepavosky": {
     "type": "Admin",
     "expires": null
+  },
+  "biel59d157": {
+    "type": "Booster",
+    "expires": "12/11/2026"
   }
 }
