@@ -257,6 +257,6 @@
   },
   "guilhermepavosky": {
     "type": "Admin",
-    "expires": "11/11/2026"
+    "expires": null
   }
 }
