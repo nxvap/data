@@ -282,5 +282,9 @@
   "usuario_99005": {
     "type": "Giveaway",
     "expires": "25/10/2026"
+  },
+  "doritobags102": {
+    "type": "Booster",
+    "expires": "13/11/2026"
   }
 }
