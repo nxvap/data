@@ -270,5 +270,9 @@
   "hydwfr5": {
     "type": "Giveaway",
     "expires": "14/10/2026"
+  },
+  "n1colas_ofc01": {
+    "type": "Admin",
+    "expires": null
   }
 }
