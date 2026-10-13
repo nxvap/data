@@ -274,5 +274,9 @@
   "n1colas_ofc01": {
     "type": "Admin",
     "expires": null
+  },
+  "noob_3pr0": {
+    "type": "Admin",
+    "expires": null
   }
 }
