@@ -278,5 +278,9 @@
   "noob_3pr0": {
     "type": "Admin",
     "expires": null
+  },
+  "usuario_99005": {
+    "type": "Giveaway",
+    "expires": "25/10/2026"
   }
 }
