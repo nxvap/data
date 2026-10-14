@@ -290,5 +290,9 @@
   "lucifer174724": {
     "type": "Admin",
     "expires": null
+  },
+  "i7_dono": {
+    "type": "Admin",
+    "expires": "16/10/2026"
   }
 }
