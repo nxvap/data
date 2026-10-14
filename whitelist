@@ -286,5 +286,9 @@
   "doritobags102": {
     "type": "Booster",
     "expires": "13/11/2026"
+  },
+  "lucifer174724": {
+    "type": "Admin",
+    "expires": null
   }
 }
