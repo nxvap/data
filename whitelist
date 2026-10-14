@@ -294,5 +294,9 @@
   "i7_dono": {
     "type": "Admin",
     "expires": "16/10/2026"
+  },
+  "sammyleveibanimento": {
+    "type": "Admin",
+    "expires": null
   }
 }
