@@ -298,5 +298,9 @@
   "sammyleveibanimento": {
     "type": "Admin",
     "expires": null
+  },
+  "seieie9w": {
+    "type": "Admin",
+    "expires": "14/11/2026"
   }
 }
