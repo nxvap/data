@@ -250,5 +250,9 @@
   "sharp_boo": {
     "type": "Admin",
     "expires": null
+  },
+  "pldkf9": {
+    "type": "Booster",
+    "expires": "21/11/2026"
   }
 }
