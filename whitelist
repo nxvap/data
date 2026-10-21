@@ -48,12 +48,8 @@
     "expires": "30/01/2027"
   },
   "ladydeathrains": {
-    "type": "Admin",
+    "type": "Senior Admin",
     "expires": null
-  },
-  "wenndryk25": {
-    "type": "Giveaway",
-    "expires": "15/10/2026"
   },
   "domeofficial": {
     "type": "Admin",
@@ -79,10 +75,6 @@
     "type": "Admin",
     "expires": null
   },
-  "pldkf9": {
-    "type": "Booster",
-    "expires": "11/10/2026"
-  },
   "erick7474880": {
     "type": "Admin",
     "expires": null
@@ -94,10 +86,6 @@
   "poppa_o22": {
     "type": "Admin",
     "expires": null
-  },
-  "vjppbjdzqvk": {
-    "type": "Admin",
-    "expires": "18/10/2026"
   },
   "bytebandit_ofici": {
     "type": "Admin",
@@ -135,21 +123,9 @@
     "type": "Admin",
     "expires": null
   },
-  "sjchsjdnd": {
-    "type": "Admin",
-    "expires": "19/10/2026"
-  },
   "junyor_v3": {
     "type": "Admin",
     "expires": null
-  },
-  "chinesemark3": {
-    "type": "Admin",
-    "expires": "20/10/2026"
-  },
-  "videmur": {
-    "type": "Admin",
-    "expires": "20/10/2026"
   },
   "memitooooololol": {
     "type": "Admin",
@@ -215,41 +191,17 @@
     "type": "Admin",
     "expires": null
   },
-  "lelmahlel": {
-    "type": "Admin",
-    "expires": "14/10/2026"
-  },
   "isukumidor1ya": {
     "type": "Admin",
     "expires": null
-  },
-  "samiron30fp": {
-    "type": "Admin",
-    "expires": "09/10/2026"
-  },
-  "damian111111150": {
-    "type": "Admin",
-    "expires": "10/10/2026"
   },
   "lebg20206": {
     "type": "Admin",
     "expires": "11/10/2026"
   },
-  "dani3ldrag0n227": {
-    "type": "Admin",
-    "expires": "13/10/2026"
-  },
   "zhaincute": {
     "type": "Booster",
     "expires": "09/11/2026"
-  },
-  "guhug38": {
-    "type": "Booster",
-    "expires": "17/10/2026"
-  },
-  "domer_haha123": {
-    "type": "Admin",
-    "expires": "14/10/2026"
   },
   "luinorcinco": {
     "type": "Admin",
@@ -266,10 +218,6 @@
   "npc_0523": {
     "type": "Giveaway",
     "expires": "01/11/2026"
-  },
-  "hydwfr5": {
-    "type": "Giveaway",
-    "expires": "14/10/2026"
   },
   "n1colas_ofc01": {
     "type": "Admin",
@@ -291,10 +239,6 @@
     "type": "Admin",
     "expires": null
   },
-  "i7_dono": {
-    "type": "Admin",
-    "expires": "16/10/2026"
-  },
   "sammyleveibanimento": {
     "type": "Admin",
     "expires": null
@@ -303,20 +247,12 @@
     "type": "Admin",
     "expires": "14/11/2026"
   },
-  "xino_446": {
-    "type": "Admin",
-    "expires": "19/10/2026"
-  },
-  "kingdream_17": {
-    "type": "Admin",
-    "expires": "19/10/2026"
-  },
   "sharp_boo": {
     "type": "Admin",
     "expires": null
   },
-  "gabriel77lps": {
-    "type": "Admin",
-    "expires": null
+  "pldkf9": {
+    "type": "Booster",
+    "expires": "21/11/2026"
   }
 }
