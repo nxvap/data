@@ -51,10 +51,6 @@
     "type": "Senior Admin",
     "expires": null
   },
-  "domeofficial": {
-    "type": "Admin",
-    "expires": null
-  },
   "kunnipha8554": {
     "type": "Senior Admin",
     "expires": "21/11/2026"
@@ -246,5 +242,9 @@
   "pldkf9": {
     "type": "Booster",
     "expires": "21/11/2026"
+  },
+  "cirmosl": {
+    "type": "Admin",
+    "expires": null
   }
 }
