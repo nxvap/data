@@ -250,5 +250,9 @@
   "pldkf9": {
     "type": "Booster",
     "expires": "21/11/2026"
+  },
+  "rakib0595": {
+    "type": "Admin",
+    "expires": "28/10/2026"
   }
 }
