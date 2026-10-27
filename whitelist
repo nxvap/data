@@ -246,5 +246,9 @@
   "rakib0595": {
     "type": "Admin",
     "expires": "28/10/2026"
+  },
+  "claudiobl9": {
+    "type": "Admin",
+    "expires": null
   }
 }
