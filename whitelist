@@ -7,10 +7,6 @@
     "type": "Admin",
     "expires": null
   },
-  "ninoezekielgael": {
-    "type": "Admin",
-    "expires": "30/12/2026"
-  },
   "fezfriz": {
     "type": "Admin",
     "expires": "30/12/2026"
@@ -19,20 +15,24 @@
     "type": "Admin",
     "expires": "30/01/2027"
   },
+  "ninoezekielgael": {
+    "type": "Client",
+    "expires": "30/12/2026"
+  },
   "hiimnew928289alt2": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
+  },
+  "ch_ract3r": {
+    "type": "Client",
+    "expires": "30/12/2026"
   },
   "robloxian_uv30thinq": {
     "type": "Owner",
     "expires": null
   },
-  "ch_ract3r": {
-    "type": "Admin",
-    "expires": "30/12/2026"
-  },
   "shutown_7": {
-    "type": "Admin",
+    "type": "Client",
     "expires": "30/12/2026"
   },
   "ladydeathrains": {
@@ -40,7 +40,7 @@
     "expires": null
   },
   "cirmosl": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "kunnipha8554": {
@@ -48,23 +48,23 @@
     "expires": "21/11/2026"
   },
   "flipschlag11": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "admindetodoslosjuego": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "erick7474880": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "poppa_o22": {
-    "type": "Admin",
+    "type": "Client",
     "expires": "29/12/2026"
   },
   "bytebandit_ofici": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "valkyrie_88a": {
@@ -80,7 +80,7 @@
     "expires": null
   },
   "levi_srn1": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "ghiigfdguc_2": {
@@ -88,15 +88,15 @@
     "expires": null
   },
   "rip_indraoopo22": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "memitooooololol": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "robdsfufr863737": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "ynzgunx": {
@@ -108,7 +108,7 @@
     "expires": null
   },
   "forty439": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "n0t_z0ro100": {
@@ -116,7 +116,7 @@
     "expires": null
   },
   "uhutughftehfyk": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "pakna_win": {
@@ -124,15 +124,15 @@
     "expires": null
   },
   "davi_darkhd": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "nssd109": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "isukumidor1ya": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "zhaincute": {
@@ -140,11 +140,11 @@
     "expires": "09/11/2026"
   },
   "luinorcinco": {
-    "type": "Admin",
+    "type": "Client",
     "expires": "18/11/2026"
   },
   "guilhermepavosky": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "biel59d157": {
@@ -152,11 +152,11 @@
     "expires": "12/11/2026"
   },
   "n1colas_ofc01": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "noob_3pr0": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "doritobags102": {
@@ -164,11 +164,11 @@
     "expires": "13/11/2026"
   },
   "lucifer174724": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "sammyleveibanimento": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "seieie9w": {
@@ -176,7 +176,7 @@
     "expires": "14/11/2026"
   },
   "sharp_boo": {
-    "type": "Admin",
+    "type": "Client",
     "expires": null
   },
   "pldkf9": {
