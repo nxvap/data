@@ -254,5 +254,9 @@
   "rakib0595": {
     "type": "Admin",
     "expires": "28/10/2026"
+  },
+  "exp0redbl00d": {
+    "type": "Booster",
+    "expires": "29/11/2026"
   }
 }
