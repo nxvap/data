@@ -131,18 +131,6 @@
     "type": "Admin",
     "expires": null
   },
-  "ney21087": {
-    "type": "Admin",
-    "expires": null
-  },
-  "bryar802": {
-    "type": "Admin",
-    "expires": null
-  },
-  "kp_wizzy": {
-    "type": "Admin",
-    "expires": null
-  },
   "nssd109": {
     "type": "Admin",
     "expires": null
@@ -188,7 +176,7 @@
     "expires": null
   },
   "seieie9w": {
-    "type": "Admin",
+    "type": "Senior Admin",
     "expires": "14/11/2026"
   },
   "sharp_boo": {
