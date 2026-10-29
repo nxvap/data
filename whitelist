@@ -63,10 +63,6 @@
     "type": "Admin",
     "expires": null
   },
-  "abugezan": {
-    "type": "Admin",
-    "expires": null
-  },
   "admindetodoslosjuego": {
     "type": "Admin",
     "expires": null
