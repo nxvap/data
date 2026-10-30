@@ -190,5 +190,9 @@
   "07potatoking20": {
     "type": "Client",
     "expires": "01/11/2026"
+  },
+  "roblox_user_10366567903": {
+    "type": "Admin",
+    "expires": "25/11/2026"
   }
 }
