@@ -194,5 +194,9 @@
   "roblox_user_10366567903": {
     "type": "Admin",
     "expires": "25/11/2026"
+  },
+  "fr1ist": {
+    "type": "Client",
+    "expires": "10/11/2026"
   }
 }
