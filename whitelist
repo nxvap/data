@@ -198,5 +198,9 @@
   "fr1ist": {
     "type": "Client",
     "expires": "10/11/2026"
+  },
+  "esertuyi231u72": {
+    "type": "Client",
+    "expires": "30/11/2026"
   }
 }
