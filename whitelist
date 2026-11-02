@@ -206,5 +206,9 @@
   "bloxfruit2019010": {
     "type": "Client",
     "expires": "04/11/2026"
+  },
+  "sidneymac2016": {
+    "type": "Client",
+    "expires": null
   }
 }
