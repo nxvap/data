@@ -202,5 +202,9 @@
   "esertuyi231u72": {
     "type": "Client",
     "expires": "30/11/2026"
+  },
+  "bloxfruit2019010": {
+    "type": "Client",
+    "expires": "04/11/2026"
   }
 }
