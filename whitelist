@@ -210,5 +210,9 @@
   "sidneymac2016": {
     "type": "Client",
     "expires": null
+  },
+  "italiano808": {
+    "type": "Client",
+    "expires": "06/11/2026"
   }
 }
