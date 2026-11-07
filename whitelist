@@ -226,5 +226,9 @@
   "delta_best5": {
     "type": "Client",
     "expires": "09/11/2026"
+  },
+  "luttigaimer": {
+    "type": "Client",
+    "expires": "11/11/2026"
   }
 }
