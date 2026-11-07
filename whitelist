@@ -222,5 +222,9 @@
   "roger2016_theog": {
     "type": "Client",
     "expires": "27/11/2026"
+  },
+  "delta_best5": {
+    "type": "Client",
+    "expires": "09/11/2026"
   }
 }
