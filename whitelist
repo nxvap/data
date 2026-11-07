@@ -214,5 +214,9 @@
   "italiano808": {
     "type": "Client",
     "expires": "06/11/2026"
+  },
+  "nicololo12301": {
+    "type": "Free admin",
+    "expires": "07/11/2026 12:34"
   }
 }
