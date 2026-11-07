@@ -218,5 +218,9 @@
   "nicololo12301": {
     "type": "Free admin",
     "expires": "07/11/2026 12:34"
+  },
+  "roger2016_theog": {
+    "type": "Client",
+    "expires": "27/11/2026"
   }
 }
