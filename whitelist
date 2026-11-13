@@ -250,5 +250,9 @@
   "jfjglfkhkt": {
     "type": "Client",
     "expires": null
+  },
+  "avynerjuan2012": {
+    "type": "Admin",
+    "expires": null
   }
 }
