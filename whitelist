@@ -195,10 +195,6 @@
     "type": "Admin",
     "expires": null
   },
-  "npc_0523": {
-    "type": "Giveaway",
-    "expires": "01/11/2026"
-  },
   "n1colas_ofc01": {
     "type": "Admin",
     "expires": null
