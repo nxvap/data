@@ -254,5 +254,9 @@
   "avynerjuan2012": {
     "type": "Admin",
     "expires": null
+  },
+  "bh_groupinfo": {
+    "type": "Free admin",
+    "expires": "17/11/2026"
   }
 }
