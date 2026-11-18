@@ -258,5 +258,9 @@
   "bh_groupinfo": {
     "type": "Free admin",
     "expires": "17/11/2026"
+  },
+  "alisson02125": {
+    "type": "Client",
+    "expires": null
   }
 }
