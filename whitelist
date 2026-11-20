@@ -202,5 +202,9 @@
   "syahwhwhwh": {
     "type": "Client",
     "expires": "19/12/2026"
+  },
+  "oregon_shibok": {
+    "type": "Client",
+    "expires": null
   }
 }
