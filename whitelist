@@ -206,5 +206,9 @@
   "oregon_shibok": {
     "type": "Client",
     "expires": null
+  },
+  "gigachad2022floppa": {
+    "type": "Client",
+    "expires": null
   }
 }
