@@ -210,5 +210,9 @@
   "gigachad2022floppa": {
     "type": "Client",
     "expires": null
+  },
+  "wedaty90": {
+    "type": "Client",
+    "expires": null
   }
 }
