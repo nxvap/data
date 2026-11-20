@@ -262,5 +262,9 @@
   "alisson02125": {
     "type": "Client",
     "expires": null
+  },
+  "syahwhwhwh": {
+    "type": "Client",
+    "expires": "19/12/2026"
   }
 }
