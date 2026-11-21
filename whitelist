@@ -210,5 +210,9 @@
   "wedaty90": {
     "type": "Client",
     "expires": "20/12/2026"
+  },
+  "minuzin_ofc01": {
+    "type": "Client",
+    "expires": null
   }
 }
