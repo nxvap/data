@@ -214,5 +214,9 @@
   "minuzin_ofc01": {
     "type": "Client",
     "expires": null
+  },
+  "baconhead11526": {
+    "type": "Client",
+    "expires": "26/11/2026"
   }
 }
