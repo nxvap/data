@@ -222,5 +222,9 @@
   "r3p0linh0": {
     "type": "Client",
     "expires": "01/12/2026"
+  },
+  "npew234": {
+    "type": "Client",
+    "expires": null
   }
 }
